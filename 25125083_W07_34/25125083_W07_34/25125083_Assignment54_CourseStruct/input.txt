@@ -1,0 +1,106 @@
+CS162
+Introduction to Computer Science II
+20
+25125001
+An Nguyen Van
+8.5
+District 1, HCMC
+12/01/2007
+19125002
+Bich Tran Thi
+9.0
+District 3, HCMC
+23/02/2007
+18125003
+Cuong Le Hoang
+7.5
+Thu Duc City
+15/03/2007
+22125004
+Dung Pham Minh
+8.2
+District 5, HCMC
+30/04/2007
+24125005
+Em Hoang Van
+6.8
+Binh Thanh District
+10/05/2007
+19125006
+Phuong Vo Thi
+9.5
+District 7, HCMC
+05/06/2007
+25125007
+Giang Dang Van
+7.0
+Tan Binh District
+20/07/2007
+25125008
+Huong Bui Thi
+8.8
+Go Vap District
+18/08/2007
+25125009
+Hung Do Van
+7.9
+Phu Nhuan District
+02/09/2007
+25125010
+Kim Ngo Thi
+8.1
+District 10, HCMC
+11/10/2007
+25125011
+Lam Duong Van
+9.2
+District 12, HCMC
+25/11/2007
+25125012
+Mai Ly Thi
+8.4
+Binh Tan District
+08/12/2004
+25125013
+Nam Vu Van
+7.6
+Tan Phu District
+14/01/2007
+25125014
+Nga Ha Thi
+9.8
+Cu Chi District
+19/02/2005
+25125015
+Oanh Pham Van
+6.5
+Hoc Mon District
+22/03/2007
+25125016
+Phương Trinh Thi
+8.9
+Nha Be District
+28/04/2006
+25125017
+Quan Cao Van
+9.1
+Can Gio District
+01/05/2009
+25125018
+Quynh Dinh Thi
+8.3
+District 4, HCMC
+09/06/2009
+25125019
+Son Mai Van
+7.2
+District 6, HCMC
+17/07/2008
+25125020
+An Le Van
+9.4
+District 8, HCMC
+24/08/2008
+Opening
+50
+5

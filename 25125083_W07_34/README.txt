@@ -1,0 +1,1 @@
+I suppose there are typo errors in assignments 52 and 53 because there are duplicates. Therefore, I will let assignment 52 be doubling array size and assignment 53 be multiple choice questions assessing.
